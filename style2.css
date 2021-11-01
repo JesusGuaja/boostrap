@@ -1,0 +1,37 @@
+
+.pnglogo {
+    width: 100px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.texto {
+    letter-spacing: 3px;
+    color: white;
+    margin-top: 8px;
+    font-size: 100px;
+}
+
+.fondo {
+    margin-bottom: 178px;
+    width: 700px;
+}
+
+.historia {
+    text-align: left;
+}
+
+.content {
+    margin-top: 50px;
+}
+
+.libertadores {
+    background-image: url("imagenes/jaja.jpg");
+    background-size: cover;
+}
+
+.plantel {
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 35px;
+}

@@ -1,3 +1,35 @@
-.imagen {
+.bg-propio {
+    background-image: url("imagenes/fondo.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
+}
+
+.imagen {
+    margin-top: 100px;
+    width: 250px;
+}
+
+.tx-ingreso {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.input {
+    margin-top: 20px;
+}
+
+.boton {
+    margin-top: 30px;
+}
+
+.clave {
+    margin-top: 30px;
+}
+
+body {
+    background-color: black;
+}
+
+.div-prin {
+    background-color: white;
 }
